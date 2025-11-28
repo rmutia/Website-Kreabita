@@ -23,7 +23,7 @@ const About: React.FC = () => {
              </div>
           </div>
           
-          <div className="p-8 md:p-12 prose prose-lg prose-p:text-gray-800 prose-p:font-medium leading-relaxed">
+          <div className="p-8 md:p-12 prose prose-lg prose-p:text-gray-800 prose-p:font-medium leading-relaxed space-y-6">
             <p>Saya memulai Kreabita dengan satu tujuan sederhana: membuat belajar teknologi terasa dekat dan menyenangkan. Ketika saya mempelajari coding dan AI, saya sering merasa bahwa dunia teknologi tampak rumit karena cara penyampaiannya tidak selalu ramah untuk pemula. Padahal, konsep yang sulit bisa terasa lebih ringan ketika dipadukan dengan cerita, gambar, dan aktivitas yang mengundang rasa ingin tahu.</p>
 
             <p>Dari situlah Kreabita tumbuh. Saya ingin menghadirkan ruang belajar yang hangat, di mana teknologi tidak terlihat menakutkan, namun menjadi sesuatu yang bisa dijelajahi perlahan. Di Kreabita, saya mengubah ide-ide digital menjadi cerita yang mudah diikuti dan kegiatan kreatif yang membantu anak mengenal dunia teknologi dengan cara yang lembut.</p>

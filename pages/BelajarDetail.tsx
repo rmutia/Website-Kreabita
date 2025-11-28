@@ -44,7 +44,7 @@ const BelajarDetail: React.FC = () => {
               </div>
             </div>
 
-            <div className="prose prose-lg max-w-none prose-headings:font-semibold prose-headings:tracking-tight">
+            <div className="prose prose-lg max-w-none prose-headings:font-semibold prose-headings:tracking-tight space-y-6">
               <p>
                 Computational Thinking (CT) adalah kemampuan berpikir untuk menyelesaikan masalah secara menyeluruh, logis, dan teratur. Ini adalah pondasi utama sebelum kita menyentuh kode program apapun.
               </p>

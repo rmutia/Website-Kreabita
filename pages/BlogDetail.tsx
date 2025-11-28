@@ -29,7 +29,7 @@ const BlogDetail: React.FC = () => {
            <Layers className="w-32 h-32 text-orange-300 stroke-[1]" />
         </div>
 
-        <div className="prose prose-lg mx-auto prose-headings:font-bold prose-a:text-pink-600">
+        <div className="prose prose-lg mx-auto prose-headings:font-bold prose-a:text-pink-600 space-y-6">
           <p className="lead text-xl text-gray-700 font-medium">Di era digital ini, memahami teknologi bukan lagi pilihan, melainkan kebutuhan. Tapi, apakah anak-anak perlu belajar "menulis kode" sejak dini?</p>
           
           <p>Jawabannya bukan semata-mata agar mereka menjadi programmer di masa depan. Belajar coding mengajarkan keterampilan yang jauh lebih fundamental.</p>

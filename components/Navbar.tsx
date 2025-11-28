@@ -28,12 +28,9 @@ const Navbar: React.FC = () => {
             <div className="w-2 h-2 bg-emerald-400"></div>
             <div className="w-2 h-2 bg-sky-400"></div>
           </div>
-          <div className="text-xl font-semibold tracking-tighter uppercase flex">
-            <span className="text-orange-600">Kr</span>
-            <span className="text-pink-500">ea</span>
-            <span className="text-sky-500">Bi</span>
-            <span className="text-emerald-500">ta</span>
-          </div>
+          <span className="text-xl font-bold tracking-tighter uppercase text-black">
+            Kreabita
+          </span>
         </Link>
         
         {/* Desktop Menu */}
